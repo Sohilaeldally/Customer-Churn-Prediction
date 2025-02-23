@@ -1,5 +1,7 @@
 # Customer Churn Prediction
 
+![Alt text](https://daxg39y63pxwu.cloudfront.net/images/blog/churn-models/Customer_Churn_Prediction_Models_in_Machine_Learning.png)
+
 ## Objective
 The primary objective of this analysis is to predict customer churn—whether a customer will leave or remain with the company. By identifying patterns that lead to churn, we aim to provide actionable insights that allow the business to take proactive measures to retain valuable customers. Understanding the key factors influencing customer decisions enables the development of a predictive model to improve customer retention strategies.
 
