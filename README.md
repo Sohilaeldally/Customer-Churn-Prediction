@@ -69,7 +69,6 @@ These insights can be used to develop targeted retention strategies, such as imp
 ---
 
 ## How to Install Dependencies
-1. Clone the repository:
     ```
    pip install -r requirements.txt
    ```
