@@ -69,6 +69,4 @@ These insights can be used to develop targeted retention strategies, such as imp
 ---
 
 ## How to Install Dependencies
-    ```
-   pip install -r requirements.txt
-   ```
+   ```pip install -r requirements.txt```
