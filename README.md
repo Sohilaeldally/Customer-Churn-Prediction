@@ -1,7 +1,6 @@
 # Customer Churn Prediction
 
 ![Alt text](https://daxg39y63pxwu.cloudfront.net/images/blog/churn-models/Customer_Churn_Prediction_Models_in_Machine_Learning.png)
-# Customer Churn Prediction
 
 ## Project Overview
 This project develops a machine learning model to predict customer churn for a telecommunications company. By analyzing customer data, the model identifies patterns that indicate whether a customer is likely to discontinue their service. The notebook `Churn Prediction.ipynb` implements data preprocessing, feature engineering, model training, and evaluation to achieve this goal.
