@@ -19,4 +19,4 @@ The dataset includes 20 columns:
 ## Dependencies
 To run the notebook, ensure you have the following Python libraries installed:
 ```bash
-pip install numpy pandas seaborn matplotlib scikit-learn
+pip install -r requirements.txt
